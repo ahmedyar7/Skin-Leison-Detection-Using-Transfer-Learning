@@ -323,7 +323,7 @@ The HAM10000 dataset is published under the **Creative Commons Attribution-NonCo
 | **Ahmed Yar** | Model development, training pipeline, evaluation, ensemble |
 | **Manahil Bashir** | Data preprocessing, augmentation design, analysis |
 
-**Acknowledgments:** This project was developed as part of the Final Year Design Project (FYDP) requirements at the Department of Computer Science, NUST. Backbone architectures were accessed via Ross Wightman's `timm` library.
+**Acknowledgments:** This project was developed as part of the Computer Vision Project requirements at the Department of Computer Science, NUST. Backbone architectures were accessed via Ross Wightman's `timm` library.
 
 ---
 
