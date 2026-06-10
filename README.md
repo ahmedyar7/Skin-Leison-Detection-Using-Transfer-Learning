@@ -333,7 +333,6 @@ The HAM10000 dataset is published under the **Creative Commons Attribution-NonCo
 
 ## References
 
-<<<<<<< HEAD
 1. Tschandl et al. — _HAM10000 dataset_ — Scientific Data 2018
 2. Tan & Le — _EfficientNet_ — ICML 2019
 3. Wightman — _PyTorch Image Models (timm)_ — GitHub 2019
@@ -349,4 +348,3 @@ The HAM10000 dataset is published under the **Creative Commons Attribution-NonCo
 5. Loshchilov & Hutter — *Cosine Annealing (SGDR)* — ICLR 2017
 6. Szegedy et al. — *Label Smoothing* — CVPR 2016
 7. Esteva et al. — *Dermatologist-level skin cancer classification* — Nature 2017
->>>>>>> b39ff96b707892a867ebe437f38044ab657a2c02
